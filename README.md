@@ -1,0 +1,2 @@
+# Ultimate-Tic-Tac-Toe
+This is an ultimateTic Tac Toe game that I created with a large class over the course of the semester. This includes several clients ( a desktop client,  a mobile app, and a web client), all of whom can connect to each other. I was most involved with  the ai, which was the when a user could play with against a computer, and wrote the physics of the game, or the game engine. 
