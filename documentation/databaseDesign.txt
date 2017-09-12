@@ -1,0 +1,23 @@
+UTTT Database Tables 
+
+Users -
+	user id							int
+    username 						varchar, 30
+    password 						varchar, 30
+    email							varchar, 30
+
+User profiles -
+	user id							int
+    number of games played			int
+    number of games won				int
+	
+Current games playing -
+    game id							int
+    p1 user id						int
+    p2 user id 						int
+	
+All games ever played -
+	game id							int
+    player 1 user id				int
+    player 2 user id				int
+    winner							int

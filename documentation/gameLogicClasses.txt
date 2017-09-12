@@ -1,0 +1,28 @@
+Players = 1,2
+
+UTTT class
+
+	get/set player
+	get/set lastPosition/newMiniboard 
+	
+	isGameOver		// winner of game
+		return player or 0
+
+	/*
+	update UI -> calls methods
+		get player 
+		get next lastPosition/newMiniboard
+		isGameOver
+	*/
+
+TTT class
+	isfull				//  is miniboard full
+	get/set owner 		// winner of mini game
+	move(player, miniboard 0-8 ,posistion 0-8)
+		leagal move		
+			if miniboard == lastPosition/newMiniboard 
+			check special cases 
+				new game or isfull
+		save posistion as last position/newMiniboard to be played 
+		small win?
+		change player

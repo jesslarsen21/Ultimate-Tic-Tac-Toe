@@ -1,0 +1,10 @@
+Server Architecture: Tyler
+Game Physics: Jessica, Sara
+Accounts and Settings: Carita, Sara
+AI: Conrad, Eric
+Protocol and Networking: Celeste
+iOS Client: Eric, Pablo
+Android Client: Bryce
+Web Client: Michael
+Desktop Client: Brian
+

@@ -1,0 +1,10 @@
+TITLE = 'Ultimate Tic Tac Toe'
+
+SCREEN_X = 800
+SCREEN_Y = 600
+
+FRAMES_PER_SECOND = 30
+
+BACKGROUND_COLOR	= (0, 0, 0)
+RED_COLOR					= (255, 0, 0)
+GREY_COLOR				=	(128, 128, 128)

@@ -1,0 +1,8 @@
+echo-server
+echo-client
+cpp-echo-client
+cpp-messaging-client
+cpp-uttt-client
+log.*
+**/*.swp
+

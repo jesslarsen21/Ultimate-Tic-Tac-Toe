@@ -1,0 +1,13 @@
+class Server:
+	class clientConnection:
+		declared inside server class
+	server init function will be the server constructor
+	use some container for client connections - set, map, vector
+	basically remake all functions in the current server as methods of the class;
+		keep functionality the same
+	create add client method
+	handle_client method, passed the reference to the client, handles the echo
+	these 2 methods are to shorten and modularize the main loop
+
+don't have any structs
+on success return 0, for fail return -1

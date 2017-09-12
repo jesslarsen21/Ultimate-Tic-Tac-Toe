@@ -1,0 +1,2 @@
+- Don't allow play in won small board
+- Game over if no playable cells

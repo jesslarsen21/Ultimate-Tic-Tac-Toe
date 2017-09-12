@@ -1,0 +1,30 @@
+Client->Server
+--------------
+In Game:
+Move @ board.position
+
+Meta Game:
+Create account
+Login
+Choose opponent
+Start game
+
+
+Server->Client
+--------------
+In Game:
+Update turn.player_id
+Update @ board.position player_id
+Update winner.player_id
+
+Meta Game:
+Account created
+Account creation failed
+Login successful
+Login failed
+Opponent options
+Opponent selection ok
+Opponent selection failed
+Game beginning
+
+

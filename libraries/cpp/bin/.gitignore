@@ -1,0 +1,6 @@
+echo-service
+messaging-service
+uttt-service
+cpp-echo-client
+cpp-messaging-client
+cpp-uttt-client

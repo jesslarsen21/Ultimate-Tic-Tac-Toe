@@ -1,0 +1,4 @@
+*.pyc
+test_code/*.*
+T_Board.png
+*.graffle
